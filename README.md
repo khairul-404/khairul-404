@@ -28,7 +28,7 @@ I am a passionate Software Engineer focused on building scalable, secure, and pr
 - 🌱 Learning Java Backend Development deeply
 - 💻 Passionate about Spring Boot & Microservices
 - ⚡ Interested in System Design & Cloud-Native Applications
-- 🐧 Linux User (Ubuntu/Debian)
+- 🐧 Linux User (Ubuntu)
 - 📚 Love learning Computer Science fundamentals
 - 🎯 Goal: Become a Senior Java Backend Engineer
 
@@ -75,7 +75,7 @@ I am a passionate Software Engineer focused on building scalable, secure, and pr
 
 ## Operating Systems
 
-- Linux (Ubuntu/Debian)
+- Linux (Ubuntu)
 - Windows
 
 ---
@@ -136,7 +136,7 @@ Practicing Data Structures & Algorithms regularly.
 # 📫 Connect with Me
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/khairul404
 - Email: your.email@example.com
 
 ---
