@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 # Hi , I'm Khairul
 
-## 🚀 Java Backend & Full Stack Developer
+## Java Backend & Full Stack Developer
 
 I am a passionate Software Engineer focused on building scalable, secure, and production-ready backend systems using Java and the Spring ecosystem. I enjoy solving algorithmic problems, learning distributed systems, and continuously improving my software engineering skills.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🌱 Continuously mastering **Java, Spring Boot, and Backend Engineering**
-- 💻 Building **RESTful APIs** and production-ready backend applications
-- ⚙️ Exploring **Microservices, Distributed Systems, and Cloud-Native Architecture**
-- 🐧 Daily **Linux (Ubuntu)** user
-- 📚 Strong believer in **Computer Science fundamentals** and clean code
-- 🎯 Aspiring to become a **Senior Java Backend Engineer**
+-  Continuously mastering **Java, Spring Boot, and Backend Engineering**
+-  Building **RESTful APIs** and production-ready backend applications
+-  Exploring **Microservices, Distributed Systems, and Cloud-Native Architecture**
+-  Daily **Linux (Ubuntu)** user
+-  Strong believer in **Computer Science fundamentals** and clean code
+-  Aspiring to become a **Senior Java Backend Engineer**
