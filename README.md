@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm Md. Khairul Islam Khokon
+# Hi , I'm Khairul
 
 ## 🚀 Java Backend & Full Stack Developer
 
