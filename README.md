@@ -23,25 +23,6 @@ I am a passionate Software Engineer focused on building scalable, secure, and pr
 
 ## 👨‍💻 About Me
 
-- 🌱 Learning Java Backend Development deeply
-- 💻 Passionate about Spring Boot & Microservices
-- ⚡ Interested in System Design & Cloud-Native Applications
-- 🐧 Linux User (Ubuntu)
-- 📚 Love learning Computer Science fundamentals
-- 🎯 Goal: Become a Senior Java Backend Engineer
-
----
-
-# Hi 👋, I'm Md. Khairul Islam Khokon
-
-## 🚀 Java Backend Engineer | Spring Boot | REST APIs | Microservices | System Design
-
-Passionate Java Backend Engineer with a strong focus on designing scalable, secure, and high-performance applications. I enjoy building production-ready backend systems using Java and the Spring ecosystem while continuously strengthening my expertise in software engineering, distributed systems, and cloud-native architectures.
-
----
-
-## 👨‍💻 About Me
-
 - 🌱 Continuously mastering **Java, Spring Boot, and Backend Engineering**
 - 💻 Building **RESTful APIs** and production-ready backend applications
 - ⚙️ Exploring **Microservices, Distributed Systems, and Cloud-Native Architecture**
